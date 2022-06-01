@@ -4,7 +4,7 @@ Hi, I’m Jess. I’m a passionate front-end engineer from Taiwan. I have two ye
 ### 💾 My projects
 
 
-- [🚌 Bus Timetable](https://github.com/ChangChiao/bus_timetable)
+<!-- - [🚌 Bus Timetable](https://github.com/ChangChiao/bus_timetable)
 - [🏞 Tai Walk](https://github.com/ChangChiao/react_attractions)
 - [♠ FreeCell](https://github.com/ChangChiao/freeCell)
 - [🚲 Bike Fun](https://github.com/ChangChiao/vue_youbike)
@@ -13,7 +13,7 @@ Hi, I’m Jess. I’m a passionate front-end engineer from Taiwan. I have two ye
 - [🗺 MaskMap](https://github.com/ChangChiao/mask_map)
 - [☁ Weather Box](https://github.com/ChangChiao/weather_box)
 - [🍅 Pomodoro](https://github.com/ChangChiao/pomodoro)
-
+ -->
 ### 📫 Contact me 
 <jess1104@hotmail.com.tw>
 
