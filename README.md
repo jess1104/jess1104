@@ -5,6 +5,7 @@ Hi, I’m Jess. I’m a passionate front-end engineer from Taiwan. I have two ye
 - [🛒 Hao's Shop](https://vue-shopping-topaz.vercel.app/#/)
 - [📒 To Do List](https://jess1104.github.io/vue_todolist/#/)
 - [🪙 Exange Currency](https://jess1104.github.io/exange_currency/)
+- [🗾 Find Picture](https://jess1104.github.io/react_pic/)
 - [JS Slider](https://jess1104.github.io/slider/)
 
 <!-- - [🚌 Bus Timetable](https://github.com/ChangChiao/bus_timetable)
