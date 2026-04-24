@@ -1,4 +1,4 @@
-Hi, I’m Jess. I’m a passionate front-end engineer from Taiwan. I have 5 years of Vue development experience. Also have experience working with uiux designers and flutter.
+Hi, I’m Jess. I’m a passionate front-end engineer from Taiwan. I have 5 years of front-end development experience. Also have experience working with uiux designers and flutter.
 
 
 ### 💾 My projects
