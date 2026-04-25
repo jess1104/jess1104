@@ -3,6 +3,7 @@ Hi, I’m Jess. I’m a passionate front-end engineer from Taiwan. I have 5 year
 
 ### 💾 My projects
 - [📃 Blog Project](https://social-web-14759.web.app/)
+- [🛫 Travel Plan](https://jess1104.github.io/travel-planner/)
 - [🛒 Hao's Shop](https://vue-shopping-topaz.vercel.app/#/)
 - [📒 To Do List](https://jess1104.github.io/vue_todolist/#/)
 - [🪙 Exange Currency](https://jess1104.github.io/exange_currency/)
